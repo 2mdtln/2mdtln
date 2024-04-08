@@ -1,6 +1,8 @@
 <div align="center">
-  <h2>Mamy</h2>
-  
+
+  <h2>Mamy <img src="https://cultofthepartyparrot.com/flags/hd/turkeyparrot.gif" alt="Türk parrot" style="vertical-align: middle; width: 35px; height: 35px; margin-bottom: -7px;"></h2>
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/747340224962494524)](https://discord.com/users/747340224962494524)
 
 [![Spotatus](https://spotatus.vercel.app/api/31ktsppspw4awepeisezbmrqia6m)](https://open.spotify.com/user/31ktsppspw4awepeisezbmrqia6m?si=0367b1c1fa3049e4)
