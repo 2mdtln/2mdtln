@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h2>Mamy <img src="https://cultofthepartyparrot.com/flags/hd/turkeyparrot.gif" alt="Türk parrot" style="vertical-align: middle; width: 35px; height: 35px; margin-bottom: -7px;"></h2>
-
+## Mamy <!-- --> <img src="https://cultofthepartyparrot.com/flags/hd/turkeyparrot.gif" alt="Türk parrot" width="35" height="35">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/747340224962494524)](https://discord.com/users/747340224962494524)
 
