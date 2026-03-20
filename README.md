@@ -7,7 +7,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=2mdtln&theme=github-dark&hide_border=true&background=0d1117&ring=0d1117&fire=EE0000&currStreakNum=FFFFFF&currStreakLabel=ffffff&sideLabels=b3b3b3&dates=535353" 
+    src="https://streak-stats.demolab.com?user=2mdtln&theme=github-dark&hide_border=true&fire=EE0000&dates=535353&stroke=5A37EB&ring=5A37EB91" 
     alt="GitHub Streak"
   />
 </div>
